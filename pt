@@ -26,3 +26,4 @@ payload:
   - 'dash.cloudflare.com'
   - 'blog.cloudflare.com'
   - 'developers.cloudflare.com'
+  - GEOIP,CN
