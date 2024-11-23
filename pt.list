@@ -27,5 +27,3 @@ DOMAIN,dash.cloudflare.com
 DOMAIN,blog.cloudflare.com
 DOMAIN,developers.cloudflare.com
 DOMAIN,v4.plex.tv
-DOMAIN,*.amazonaws.com
-DOMAIN,*.plex.direct
